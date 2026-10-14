@@ -1,0 +1,5 @@
+description: "Project Zomboid B42 | Local Exploration | 33 checks"
+name: ZomboidPlayer
+game: Project Zomboid
+Project Zomboid:
+  playstyle: local_exploration

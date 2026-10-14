@@ -1,0 +1,5 @@
+description: "Project Zomboid B42 | Road Trip | 39 checks"
+name: ZomboidPlayer
+game: Project Zomboid
+Project Zomboid:
+  playstyle: road_trip

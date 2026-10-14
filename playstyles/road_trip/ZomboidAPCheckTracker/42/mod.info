@@ -1,0 +1,6 @@
+name=Zomboid Archipelago - Road Trip
+id=ZomboidAPCheckTracker
+author=Community prototype
+modversion=1.6
+versionMin=42.0.0
+description=Project Zomboid Archipelago Road Trip mode. F8 checks, F9 stash, F10 server setup. Install ONE playstyle mod only.

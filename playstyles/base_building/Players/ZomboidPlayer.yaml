@@ -1,0 +1,5 @@
+description: "Project Zomboid B42 | Base Building | 41 checks"
+name: ZomboidPlayer
+game: Project Zomboid
+Project Zomboid:
+  playstyle: base_building
