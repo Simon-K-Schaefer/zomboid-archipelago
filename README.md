@@ -48,4 +48,6 @@ You install **one matching mod + YAML** per Project Zomboid slot. All three shar
 
 ## License
 
+Disclaimer: Code was partially generated or refined with generative AI (GPT-6)
+
 MIT License — see [LICENSE](LICENSE). Third-party names belong to their respective owners.
